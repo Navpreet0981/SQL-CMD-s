@@ -1,0 +1,16 @@
+
+SQL PLUS COMMANDS:- 
+
+-- create table navpreet_903(Roll_No number(10), Name char(15));
+-- describe navpreet_903;
+-- alter table navpreet_903 add(Branch char(15));
+-- alter table navpreet_903 Modify Branch char(20);
+-- alter table navpreet_903 Drop column Branch;
+-- Insert into navpreet_903 values('2236903', 'Navpreet Singh');
+-- select * from navpreet_903;
+-- update navpreet_903 set Name = 'Navpreet_903' where Roll_No = '2236903';
+-- select * from navpreet_903;
+-- delete from navpreet_903 where Roll_No = '2236903';
+-- Insert into navpreet_903 values('2236927', 'ABC');
+-- select * from navpreet_903;
+-- drop table navpreet_903;
